@@ -1,8 +1,11 @@
 # Coursera-Course-Reviews-Classification
 
-In this project the reviews on Coursera Courses are classfied using Deep Neural Networks. The Dataset contains 125583 distinct datapoints with reviews and rating given by the user on a particular course. Few datapoints from the dataset is shown below.
+# Coursera-Course-Reviews-Classification
 
-<br>
+Project: This project is based on the classification of Coursera Course Reviews based on the intent in the text data. A Deep Neural Network was trained to classify the text using LSTM (Long Sort-Term Memory) layer along with DNN (Dense Neural Network).
+
+Dataset: Dataset is extracted from the Coursera. There are 125583 distinct review and ratings given on the course. 
+
 <img src="images/data_frame.jpg">
 
 
